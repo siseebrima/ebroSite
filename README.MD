@@ -1,1 +1,3 @@
-Hello Ebrima
+# Hello Ebrima
+
+let name = 'ebrima';
